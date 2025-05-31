@@ -1,2 +1,2 @@
-# machine-learning-cognitive-impairment-classifier
+# Machine Learning Cognitive Impairment Classifier
 Machine Learning Cognitive Impairement Classifier
