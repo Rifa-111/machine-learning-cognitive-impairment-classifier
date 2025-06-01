@@ -26,13 +26,14 @@ Classifies cognitive state into:
 
 - Model performance evaluated using accuracy, precision, recall, and F1-score
 
-# 💡 Motivation
+# Motivation
 Current ML tools for Alzheimer’s rely on complex neuroimaging. This project demonstrates that even low-dimensional features can provide meaningful classification, enabling scalable triage tools for use in resource-limited settings.
 
-🚀 Try It Out
+# Try It Out
 To run locally:
 
 pip install -r requirements.txt
+
 streamlit run streamlit_app.py
 
 # Contents
