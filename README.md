@@ -45,4 +45,9 @@ streamlit run streamlit_app.py
 
 - Data: Contains the CSV files for CN, EMCI, LMCI and MCI classes
 
+# Dataset
+
+This project used dataset from Kaggle 
+Link: https://www.kaggle.com/datasets/dilipharish/alzehimercsvdatas
+
 
