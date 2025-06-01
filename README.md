@@ -1,6 +1,6 @@
 # Machine Learning Cognitive Impairment Classifier
 
-A machine learning-based web application that classifies cognitive status (CN, EMCI, LMCI, MCI) using only minimal MRI metadata — specifically age, biological sex, and scan description — without requiring full image data.
+A machine learning-based web application that classifies cognitive status (CN, EMCI, LMCI, MCI) using only minimal MRI metadata — specifically age, biological gender and scan description — without requiring full image data.
 
 # Overview
 This project leverages structured metadata from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) to build a lightweight, deployable screening tool for early cognitive impairment detection. The app is built with Streamlit, making it easy for clinicians or researchers to input basic patient info and receive real-time predictions using a trained Gradient Boosting Classifier.
