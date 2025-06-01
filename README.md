@@ -37,12 +37,12 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 
 # Contents
-app.py: Model training and evaluation script
+- app.py: Model training and evaluation script
 
-streamlit_app.py: Streamlit interface
+- streamlit_app.py: Streamlit interface
 
-model.pkl, model_columns.pkl: Trained model and expected features
+- model.pkl, model_columns.pkl: Trained model and expected features
 
-Data/: Contains the CSV files for CN, EMCI, LMCI and MCI classes
+- Data: Contains the CSV files for CN, EMCI, LMCI and MCI classes
 
 
