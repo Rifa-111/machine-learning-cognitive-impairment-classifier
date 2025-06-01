@@ -47,7 +47,8 @@ streamlit run streamlit_app.py
 
 # Dataset
 
-This project used dataset from Kaggle 
+This project used Alzehimer dataset from Kaggle 
+
 Link: https://www.kaggle.com/datasets/dilipharish/alzehimercsvdatas
 
 
